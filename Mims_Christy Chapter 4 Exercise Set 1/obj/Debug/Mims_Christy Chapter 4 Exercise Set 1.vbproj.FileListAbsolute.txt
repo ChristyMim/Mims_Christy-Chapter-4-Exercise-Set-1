@@ -1,0 +1,15 @@
+E:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\bin\Debug\Mims_Christy Chapter 4 Exercise Set 1.exe.config
+E:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\bin\Debug\Mims_Christy Chapter 4 Exercise Set 1.exe
+E:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\bin\Debug\Mims_Christy Chapter 4 Exercise Set 1.pdb
+E:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\bin\Debug\Mims_Christy Chapter 4 Exercise Set 1.xml
+E:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\obj\Debug\Mims_Christy Chapter 4 Exercise Set 1.vbprojResolveAssemblyReference.cache
+E:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\obj\Debug\Mims_Christy_Chapter_4_Exercise_Set_1.frmChapter4ExerciseSet1.resources
+E:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\obj\Debug\Mims_Christy_Chapter_4_Exercise_Set_1.Resources.resources
+E:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\obj\Debug\Mims_Christy Chapter 4 Exercise Set 1.vbproj.GenerateResource.Cache
+E:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\obj\Debug\Mims_Christy Chapter 4 Exercise Set 1.exe
+E:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\obj\Debug\Mims_Christy Chapter 4 Exercise Set 1.xml
+E:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\obj\Debug\Mims_Christy Chapter 4 Exercise Set 1.pdb
+G:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\bin\Debug\Mims_Christy Chapter 4 Exercise Set 1.exe.config
+G:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\obj\Debug\Mims_Christy Chapter 4 Exercise Set 1.exe
+G:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\obj\Debug\Mims_Christy Chapter 4 Exercise Set 1.xml
+G:\vbp\Mims_Christy Chapter 4 Exercise Set 1\Mims_Christy Chapter 4 Exercise Set 1\obj\Debug\Mims_Christy Chapter 4 Exercise Set 1.pdb
